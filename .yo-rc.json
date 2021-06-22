@@ -41,6 +41,7 @@
     "jwtSecretKey": "NGVmMzlmNDRiM2E2NGNmNDQzNjAzN2I4NzY2ODgyZjk2MDExYTU5YThhYmFlMDU2YjlmMzQwYjNkYjNkMzlhMTNlM2Y2Y2EyYjViYTI0MjljZjU2ZGFjM2ZmZmI4Y2Q2Mjc3MmM1ZTcyZWFhY2I0YTVkZWFhOWY4ZGNjMDZjMDc=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "zh-cn"]
+    "languages": ["en", "zh-cn"],
+    "entities": ["Product", "Customer", "ProductOrder", "OrderItem", "Invoice", "Shipment", "ProductCategory"]
   }
 }
